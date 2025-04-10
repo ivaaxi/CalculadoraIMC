@@ -9,6 +9,7 @@ import android.view.inputmethod.InputMethodManager
 import android.widget.Button
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatDelegate
 import com.google.android.material.progressindicator.CircularProgressIndicator
 
 const val MILLISECONDS_LOADING_BAR = 2000L
@@ -22,6 +23,7 @@ class ColetaDadosActivity : AppCompatActivity() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.coleta_dados_activity)
         setupListeners()

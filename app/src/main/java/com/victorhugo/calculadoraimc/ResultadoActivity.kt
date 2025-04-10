@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatDelegate
 
 class ResultadoActivity : AppCompatActivity() {
     private val txtPesoInformado: TextView by lazy { findViewById(R.id.txtPesoInformado) }
@@ -13,6 +14,7 @@ class ResultadoActivity : AppCompatActivity() {
     private val btnRecalcular: Button by lazy { findViewById(R.id.btnRecalcular) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.resultado_activity)
         setupUI()

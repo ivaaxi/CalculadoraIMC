@@ -4,21 +4,21 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- Cores principais -->
-    <color name="primaria">#040404</color> <!-- Marrom acinzentado (pra elementos principais) -->
-    <color name="primaria_variacao">#15524C</color> <!-- Versão mais escura pro contraste -->
-    <color name="secundaria">#1F8975</color> <!-- Marrom acinzentado (pra elementos principais) -->
+    <color name="primaria">#040404</color>
+    <color name="primaria_variacao">#15524C</color>
+    <color name="secundaria">#1F8975</color>
 
     <!-- Fundo -->
-    <color name="fundo">#2CA9BA</color> <!-- Rosé acinzentado claro -->
+    <color name="fundo">#2CA9BA</color>
 
     <!-- Texto -->
-    <color name="textoPrincipal">#000000</color> <!-- Quase preto, ótimo contraste -->
-    <color name="textoSecundario">#2C2A2A</color> <!-- Cinza médio, pra textos menores ou descritivos -->
+    <color name="textoPrincipal">#000000</color>
+    <color name="textoSecundario">#2C2A2A</color>
 
     <!-- Carregando -->
-    <color name="loading">#0031FA</color> <!-- Azul profundo, bom contraste com o fundo -->
+    <color name="loading">#0031FA</color>
 
     <!-- Campos de texto -->
-    <color name="inputBackground">#EDE0DC</color> <!-- Rosa clarinho pra campos -->
-    <color name="hintColor">#8D6E63</color> <!-- Marrom claro, elegante e legível no fundo -->
+    <color name="inputBackground">#EDE0DC</color>
+    <color name="hintColor">#8D6E63</color>
 </resources>
