@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextCursorColor" parent="Widget.MaterialComponents.TextInputEditText.FilledBox">
+        <item name="android:textCursorDrawable">@drawable/cursor_custom</item>
+    </style>
+</resources>

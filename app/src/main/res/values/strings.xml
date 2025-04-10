@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <!-- EditText -->
+    <string name="edtDigiteSeuPeso">Digite seu peso</string>
+    <string name="edtDigiteSuaAltura">Digite sua altura</string>
+    <string name="txtInstrucao">Digite o \".\" para separar casas decimais</string>
+    <!-- Button -->
+    <string name="btnCalcularIMC">Calcular IMC</string>
+    <string name="btnRecalcularIMC">Recalcular IMC</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="txtPesoInformado">Peso informado: %.2f kg</string>
+    <string name="txtAlturaInformada">Altura informada: %.2f cm</string>
+    <string name="txtResultado">Resultado: %s</string>
+    <string name="txtRecomendacao">Atenção! Para sair da faixa de obesidade, você precisa perder aproximadamente %.1f kg.</string>
+</resources>
