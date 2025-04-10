@@ -20,7 +20,8 @@ Aplicativo Android simples desenvolvido em Kotlin que calcula o IMC (Índice de 
 
 ## 📸 Imagens
 
-*(Adicione prints do app aqui, se quiser)*
+![image](https://github.com/user-attachments/assets/4af2d734-58b1-4927-a28e-6b638c02a74b)
+![image](https://github.com/user-attachments/assets/f208dfa8-30b0-4dda-9699-6d8925e39dd3)
 
 ## 🚀 Como rodar
 
